@@ -1,4 +1,4 @@
-# Ejercicio 0
+# Iniciar proyectos locales y remotos
 
 ## Iniciar un proyecto git / git init / git clone / fork
 

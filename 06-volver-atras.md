@@ -1,4 +1,4 @@
-# Ejercicio 6
+# Deshacer cambios
 
 ## Volver para atrás tus cambios
 

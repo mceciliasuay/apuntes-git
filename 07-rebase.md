@@ -1,7 +1,7 @@
-# Ejercicio 7
 
+# Reescribiendo Ramas
 ## Rebase y Rebase interactivo
-
+“re-escribe” la historia de la rama principal 
 ### Rebase
 Supongamos que tenemos la siguiente historia, y estamos en la rama *topic*:
 

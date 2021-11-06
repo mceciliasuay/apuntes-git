@@ -1,4 +1,4 @@
-# Ejericio 1
+# Flujo de trabajo básico
 
 ## git status, git add, git commit, git push
 

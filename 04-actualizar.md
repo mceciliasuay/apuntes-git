@@ -1,4 +1,4 @@
-# Ejercicio 2
+# Actualizar 
 
 ## Uso de fecth/merge/pull, como mantener actualizados mis cambios
 
@@ -43,4 +43,4 @@ Notemos entonces que el **pull es un fetch más un merge** en la misma operació
 
 Es posible que al traernos estos cambios podamos tener conflictos en nuestros cambios y los de otros desarrolladores. Esto se debe a que ambos abrimos rama en el mismo punto en la rama dev, con lo cual, el merge automático no sabe exactamente con qué cambio de cuál commit quedarse, ya que ninguno en principio estaría por encima del otro.
 
-Cuando tenemos esta situación tendremos que hacer un merge manual, normalmente con una herramienta configurada para ello, pero esto lo veremos en el [capítulo 8 - El merge y el mergetool](../ocho/ocho.md).
+Cuando tenemos esta situación tendremos que hacer un merge manual, normalmente con una herramienta configurada para ello.
