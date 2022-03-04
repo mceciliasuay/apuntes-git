@@ -1,23 +1,10 @@
 # Actualizar 
 
-## Uso de fecth/merge/pull, como mantener actualizados mis cambios
+## Uso de merge/pull, como mantener actualizados mis cambios
 
 Cuando trabajamos en equipo, necesitamos tener actualizados nuestro repositorio en la rama en la que estemos trabajando para evitar tener muchos conflictos al final de nuestro desarrollo, es mucho más sencillo actualizar poco a poco los cambios que los demás desarrolladores están mergeando en la rama **dev** para así poder resolver los conflictos (si los tuviésemos) de una manera mucho más trivial: divide y vencerás.
 
-### fecth
 
-Podemos usar el comando **fecth**. Con este comando podremos traermos los cambios de otros desarrolladores de cualquier repositorio enlazado a nuestro repositorio local en la rama que necesitemos por ejemplo:
-
-```
-$ git fecth zero dev
-
-```
-
-En el ejemplo nos estamos trayendo los cambios del repositorio del que hicimos el *fork*, que lo hemos enlazado con el pseudónimo zero en su rama *dev*. En teoría, los desarrolladores deberían mergear el código de sus forks a este repositorio centralizado del que todos hemos ido haciendo nuestros propios forks y después clonándolos en una copia en local.
-
-Sobre cómo enlazar repositorios a nuestro repositorio local lo trataremos en el [ejercicio 4, gestión de repositorios remotos](../cuatro/cuatro.md).
-
-De la misma forma, podemos traernos cambios de cualquier repositorio enlazado, en cualquiera de sus ramas.
 
 ### merge
 
